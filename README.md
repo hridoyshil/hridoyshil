@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hridoy Kumar shil 
+### Hi, I'm Hridoy Kumar shil 
 #### Django and React JS Developer
 I am a Django and React JS Developer. I have excellent experience developing Python Django and Django Rest Framework. Looking for a challenging role to enhance my knowledge of new and emerging trends in the IT sector.
 
