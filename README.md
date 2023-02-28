@@ -2,7 +2,8 @@
 #### Django and React JS Developer
 I am a Django and React JS Developer. I have excellent experience developing Python Django and Django Rest Framework. Looking for a challenging role to enhance my knowledge of new and emerging trends in the IT sector.
 
-Skills: Python/Django/ React/React Native /REST API/ JS /HTML / CSS/Bootstrap /Digital Marketing
+Skills: Python/Django/ React/React Native /REST API/ JS /HTML / CSS/Bootstrap /Digital Marketing/ web scraping with Python
+
 
 
 
